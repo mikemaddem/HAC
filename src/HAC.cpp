@@ -18,7 +18,7 @@ void osDetect() {
     std::cout << "Windows 32bit detected" << std::endl;
 #ifdef _WIN64
     //define something for Windows (64-bit only)
-    #include <windows.h>
+    //include <windows.h>
     std::cout << "Windows 64bit detected" << std::endl;
 #else
     //define something for Windows (32-bit only)
