@@ -5,7 +5,6 @@
 #include <iostream>
 
 #include <stdio.h>
-#include <windows.h> //include windows.h header file (needed for windows API)
 #include <tlhelp32.h> //include tlhelp32.h
 #include <tchar.h>    //tchar.h header file
 #include <iostream> //include iostream header file for input/output operations
