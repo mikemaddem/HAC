@@ -33,3 +33,7 @@
 
 /.idea
 /cmake-build-debug
+/Debug
+/.vs
+*.opendb
+*.db
